@@ -31,9 +31,12 @@ This project was created during my internship at **NullClass Edtech Pvt. Ltd.** 
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/5a971d0d-0160-42f6-933f-7b25a6c94eff) ![image](https://github.com/user-attachments/assets/66c28574-c245-4385-8ac3-e6e5f456ca72)
-![image](https://github.com/user-attachments/assets/9b2c1de7-46e9-4485-b0d9-66990415b38e) ![image](https://github.com/user-attachments/assets/fba770c6-73f6-4d92-8269-38a0844e5e7a)
-![image](https://github.com/user-attachments/assets/382cb9ce-4738-4faa-9a93-573b0bf66982)
+![Screenshot 2025-06-25 192300](https://github.com/user-attachments/assets/a9f9735f-50a6-4c8c-8cf1-912cd39db5a7)
+![image](https://github.com/user-attachments/assets/faa14f91-1886-4f1c-be24-4737dcbed08e)
+![image](https://github.com/user-attachments/assets/b2965aae-357d-4744-8b5b-73a792fa5974)
+![Screenshot 2025-06-25 192636](https://github.com/user-attachments/assets/dbffac07-d2ea-41e1-abc9-b55f5a65451c)
+![Screenshot 2025-06-25 192709](https://github.com/user-attachments/assets/dbaf0f2e-1c5e-4df1-a51b-433c2e247926)
+
 
 ## 🛠️ Tools & Technologies
 
