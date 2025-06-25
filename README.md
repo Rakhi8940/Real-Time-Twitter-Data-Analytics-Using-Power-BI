@@ -29,7 +29,11 @@ This project was created during my internship at **NullClass Edtech Pvt. Ltd.** 
 10. **Custom Filters & Drilldowns**
 11. **Predictive Forecasting Dashboard**
 
-*(Add screenshots of your dashboards here!)*
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/5a971d0d-0160-42f6-933f-7b25a6c94eff) ![image](https://github.com/user-attachments/assets/66c28574-c245-4385-8ac3-e6e5f456ca72)
+![image](https://github.com/user-attachments/assets/9b2c1de7-46e9-4485-b0d9-66990415b38e) ![image](https://github.com/user-attachments/assets/fba770c6-73f6-4d92-8269-38a0844e5e7a)
+![image](https://github.com/user-attachments/assets/382cb9ce-4738-4faa-9a93-573b0bf66982)
 
 ## 🛠️ Tools & Technologies
 
